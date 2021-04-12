@@ -1,0 +1,15 @@
+@font-face {
+   font-family: '段宁硬笔隶书';
+   font-display: swap;
+   src: url('段宁硬笔隶书/font.ttf');
+}
+@font-face {
+   font-family: 'Dengl';
+   font-display: swap;
+   src: url('Dengl/font.ttf');
+}
+@font-face {
+   font-family: 'Deng';
+   font-display: swap;
+   src: url('Deng/font.ttf');
+}
